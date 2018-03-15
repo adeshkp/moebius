@@ -5,7 +5,7 @@ re-forking of Mozilla code at an earlier fork point to avoid breaking issues
 with the current code making it unsuitable for platform development.
 
 # Unified XUL Platform (UXP-deprecated)
-## Codename: Möbius
+## Codename: MÃ¶bius
 
 This repository holds the code for a unified application platform for XUL-based
 applications. It is a hard fork from the Mozilla code repository (mozilla-central)
